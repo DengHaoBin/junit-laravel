@@ -1,5 +1,5 @@
 {
-    "name": "Bin\/junit-laravel",
+    "name": "bin\/junit-laravel",
     "description": "this is a tinyjunit for laravel",
     "license": "MIT",
     "authors": [
